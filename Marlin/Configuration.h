@@ -2421,7 +2421,7 @@
 // Edit servo angles with M281 and save to EEPROM with M500
 //#define EDITABLE_SERVO_ANGLES
 
- * the Free Software Foundation, either version 3 of the License, or
+ /* the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
  * This program is distributed in the hope that it will be useful,
